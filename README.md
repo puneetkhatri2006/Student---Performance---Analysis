@@ -24,7 +24,7 @@ and compares academic performance through graphs
 - student.csv: Student dataset
 - student_performance_report.csv: Final analysis reports
 - Graphs/: Contains generated graphs
-- requirements.txt: Required Python libraries
+- requirements.txt: Required Python Libraries
 
 ## How to Run 
 1. Install the required libraries:
